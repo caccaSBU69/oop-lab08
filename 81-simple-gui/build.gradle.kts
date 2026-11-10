@@ -17,3 +17,4 @@ repositories {
 application {
     mainClass.set("it.unibo.mvc.MiniGUI")
 }
+
